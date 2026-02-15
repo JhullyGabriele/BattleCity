@@ -1,10 +1,21 @@
-# BattleCity
-A game inspired by Battle City.Prompt/Terminal version.
+# Battle City-Inspired Game (Terminal Version)
 
-Development of a game where the objective is to defend a base against enemy tanks, including the implementation of shooting mechanics with animations. The enemy behavior is automated through programmed movement and attack patterns, demonstrating skills in programming logic, interactive mechanics development, and real-time event control.
+A **terminal-based game** inspired by Battle City, where the objective is to **defend a base against enemy tanks**. The game includes shooting mechanics with animations, and enemy behavior is automated using programmed movement and attack patterns.
 
-Game created in collaboration with Lucas Lessa Duarte for a class at UFPEL.
+This project demonstrates skills in:  
+- Programming logic  
+- Interactive mechanics development  
+- Real-time event control
 
-To start the game, make sure you have the JDK installed. Type javac *.java in the terminal to compile it, and then type java Main.
+## Collaboration
+Game developed in collaboration with **Lucas Lessa Duarte** for a class at **UFPEL**.
 
-Graphic version still under construction.
+## How to Run
+1. Ensure you have the **JDK installed**.  
+2. Open the terminal in the project directory.  
+3. Compile the game with: javac *.java
+4. Run the game with: java Main
+
+## Notes
+- Currently, this is a **terminal version**.  
+- A **graphical version** is under development.
